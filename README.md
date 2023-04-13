@@ -15,6 +15,12 @@
 
 
 
+<h3 align="left">Connect with me:</h3>
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profilin/)](https://www.linkedin.com/in/muslumhanozturk/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/muslumhanozturk)](https://github.com/muslumhanozturk)
+[![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)](https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -97,9 +103,7 @@
 
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profilin/)](https://www.linkedin.com/in/muslumhanozturk/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/muslumhanozturk)](https://github.com/muslumhanozturk)
-[![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)](https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)
+
 
 
 
