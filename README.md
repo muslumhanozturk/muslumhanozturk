@@ -104,6 +104,9 @@
         <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
       </a>
     </td>
+    <td>
+        <img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />
+    </td>   
   </tr>
 </table>
 </p>
