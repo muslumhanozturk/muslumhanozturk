@@ -105,6 +105,11 @@
 </table>
 </p>
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
 
 ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark)
 
