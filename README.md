@@ -9,8 +9,8 @@ A DevOps Engineer focused on development from Istanbul / TÜRKİYE
 - 📄 Know about my experiences https://www.linkedin.com/in/muslumhanozturk
 
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/muslumhanozturk)](https://github.com/muslumhanozturk)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profilin/)](https://www.linkedin.com/in/muslumhanozturk/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/muslumhanozturk)](https://github.com/muslumhanozturk)
+
 
 
