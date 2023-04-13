@@ -19,6 +19,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=muslumhanozturk&show_icons=true&theme=dark&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&hide_border=true&icon_color=blue)
 
 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
 
 
@@ -30,8 +31,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profilin/)](https://www.linkedin.com/in/muslumhanozturk/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/muslumhanozturk)](https://github.com/muslumhanozturk)
 [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)](https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)
-![Slack Logo](https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png)
-
 
 
 
