@@ -106,7 +106,7 @@
 </p>
 
 
-![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=theme_name)
+![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=black)
 
 
 
