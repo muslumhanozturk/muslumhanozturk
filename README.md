@@ -9,7 +9,7 @@ A DevOps Engineer focused on development from Istanbul / TÜRKİYE
 - 📄 Know about my experiences https://www.linkedin.com/in/muslumhanozturk
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)](https://github.com/muslumhanozturk/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=muslumhanozturk&show_icons=true&theme=radical)](https://github.com/muslumhanozturk/)
 
 
 
