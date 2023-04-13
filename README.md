@@ -12,3 +12,5 @@ A DevOps Engineer focused on development from Istanbul / TÜRKİYE
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/muslumhanozturk)](https://github.com/muslumhanozturk)
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/muslumhanozturk)][1]
+[1]: https://github.com/muslumhanozturk
