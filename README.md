@@ -2,8 +2,9 @@
     Hi 👋, I'm Muslum Han OZTURK
 </p>
 
-
+<p align="center">
 A DevOps Engineer focused on development from Istanbul / TÜRKİYE
+</p>
 
 
 - 🌱 I’m currently learning AWS Cloud Architect / DevOps Engineer
