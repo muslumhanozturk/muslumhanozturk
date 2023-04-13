@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Hi 👋, I'm Muslum Han OZTURK!</h1>
+    <h1 align="center">Hi 👋<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Muslum Han OZTURK!</h1>
 </p>
 
 <p align="center">
@@ -21,9 +21,7 @@
 <a href="https://linkedin.com/in/muslumhanozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muslumhanozturk" height="30" width="40" /></a>
 </p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profilin/)](https://www.linkedin.com/in/muslumhanozturk/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/muslumhanozturk)](https://github.com/muslumhanozturk)
-[![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)](https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
