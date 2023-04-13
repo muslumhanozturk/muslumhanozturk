@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muslum Han OZTURK
 
-A DevOps Engineer focused on development from Istanbul / TURKEY
+A DevOps Engineer focused on development from Istanbul / TÜRKİYE
 
 
 - 🔭 I’m currently working on AWS Cloud Architect
