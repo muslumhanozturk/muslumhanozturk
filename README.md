@@ -1,7 +1,5 @@
-# Hi 👋, I'm Muslum Han OZTURK
-
 <p align="center">
-  Bu yazıyı ortalamak için kullanabileceğiniz farklı yöntemler mevcuttur.
+  # Hi 👋, I'm Muslum Han OZTURK
 </p>
 
 
