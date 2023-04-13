@@ -1,4 +1,4 @@
-#<p align="center">
+<p align="center">
     <h1 align="center">Hi 👋, I'm Muslum Han OZTURK!</h1>
 </p>
 
