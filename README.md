@@ -20,12 +20,12 @@
   <tr>
     <td>
       <a href="https://linkedin.com/in/muslumhanozturk" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muslumhanozturk" height="40" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muslumhanozturk" height="30" width="40" />
       </a>
     </td>
     <td>
       <a href="https://instagram.com/m.hanozturk" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hanozturk" height="40" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hanozturk" height="30" width="40" />
       </a>
     </td>
   </tr>
@@ -42,7 +42,7 @@
   <table>
   <tr>
     <td>
-      <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" width="40" height="40"/>
+      <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     </td>
     <td>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
