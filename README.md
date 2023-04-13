@@ -106,8 +106,9 @@
 </p>
 
 
+http://github-profile-summary-cards.vercel.app/api/cards/stats?muslumhanozturk={muslumhanozturk}&theme={theme_name}
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
 
 
 
