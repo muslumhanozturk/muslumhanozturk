@@ -42,7 +42,7 @@
   <table>
   <tr>
     <td>
-      <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     </td>
     <td>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
