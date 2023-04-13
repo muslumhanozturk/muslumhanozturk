@@ -15,6 +15,8 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=muslumhanozturk&show_icons=true&theme=black)
+![Github stats](https://github-readme-stats.vercel.app/api?username=muslumhanozturk&show_icons=true&theme=dark&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&hide_border=true)
+
 
 
 
