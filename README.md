@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-A DevOps Engineer focused on development from Istanbul / TÜRKİYE
+    <h3 align="center">A DevOps Engineer focused on development from Istanbul / TÜRKİYE</h3>
 </p>
 
 
