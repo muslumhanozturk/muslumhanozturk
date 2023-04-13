@@ -17,6 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<a href="https://linkedin.com/in/fahrettin emre dalga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahrettin emre dalga" height="30" width="40" /></a>
+</p>
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profilin/)](https://www.linkedin.com/in/muslumhanozturk/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/muslumhanozturk)](https://github.com/muslumhanozturk)
 [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)](https://muslumhanozturk.blogspot.com/2022/08/sezgisel-ogrenme-nedir-oncelikle-b.html)
