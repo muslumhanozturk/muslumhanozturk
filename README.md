@@ -21,6 +21,21 @@
 <a href="https://linkedin.com/in/muslumhanozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muslumhanozturk" height="30" width="40" /></a>
 <a href="https://instagram.com/m.hanozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hanozturk" height="30" width="40" /></a>
 </p>
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/muslumhanozturk" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muslumhanozturk" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/m.hanozturk" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hanozturk" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
@@ -94,19 +109,6 @@
   </tr>
 </table>
 </p>
-
-
-
-<h3 align="left">This week I spent my time on</h3>
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=muslumhanozturk&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-
-
-
-
-
-ddfdf
 
 
 
