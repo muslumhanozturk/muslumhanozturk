@@ -14,9 +14,7 @@
 - 📄 Know about my experiences https://www.linkedin.com/in/muslumhanozturk
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=muslumhanozturk&show_icons=true&theme=black)
-![Github stats](https://github-readme-stats.vercel.app/api?username=muslumhanozturk&show_icons=true&theme=dark&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&hide_border=true)
-![Github stats](https://github-readme-stats.vercel.app/api?username=muslumhanozturk&show_icons=true&theme=dark&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&hide_border=true&icon_color=blue)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
