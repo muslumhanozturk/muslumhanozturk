@@ -1,5 +1,10 @@
 # Hi 👋, I'm Muslum Han OZTURK
 
+<p align="center">
+  Bu yazıyı ortalamak için kullanabileceğiniz farklı yöntemler mevcuttur.
+</p>
+
+
 A DevOps Engineer focused on development from Istanbul / TÜRKİYE
 
 
