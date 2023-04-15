@@ -107,9 +107,6 @@
     <td>
         <img align="left" alt="Python" width="38px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />
     </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    </td>
   </tr>
 </table>
 </p>
