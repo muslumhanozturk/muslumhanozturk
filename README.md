@@ -116,7 +116,7 @@
 
 <img width="300" align="right" alt="coder.gif" src="coder1.gif" />
 
-![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muslumhanozturk&theme=nord_dark)](https://github.com/muslumhanozturk/github-readme-stats)
+![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muslumhanozturk&theme=dark)](https://github.com/muslumhanozturk/github-readme-stats)
 
 
 
@@ -130,8 +130,6 @@
 
 
 
-
-![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark)
 
 
 
