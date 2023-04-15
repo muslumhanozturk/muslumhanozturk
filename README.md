@@ -7,7 +7,7 @@
 </p>
 
 
-- 🌱 I’m currently learning AWS Cloud Architect / DevOps Engineering
+- 🌱 I’m currently learning __AWS Cloud Architect / DevOps Engineering__
 - 👨‍💻 All of my projects are available at https://github.com/muslumhanozturk
 - 💬 Ask me about AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Prometheus, Grafana
 - 📫 How to reach me: muslumhanozturk@gmail.com
