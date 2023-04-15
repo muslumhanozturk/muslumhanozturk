@@ -19,12 +19,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://linkedin.com/in/muslumhanozturk" target="_blank">
+      <a href="https://linkedin.com/in/muslumhanozturk" title="Linkedin" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muslumhanozturk" height="30" width="40" />
       </a>
     </td>
     <td>
-      <a href="https://instagram.com/m.hanozturk" target="_blank">
+      <a href="https://instagram.com/m.hanozturk" title="Instagram" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hanozturk" height="30" width="40" />
       </a>
     </td>
