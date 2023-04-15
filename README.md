@@ -50,62 +50,62 @@
       </a>
     </td>
     <td>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="44" height="44"/>
       </a>
     </td>
     <td>
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+      <a href="https://kubernetes.io" title="Kubernetes" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+      <a href="https://www.terraform.io/" title="Terraform" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.ansible.com/" title="Ansible" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+      <a href="https://www.jenkins.io/" title="Jenkins" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+      <a href="https://prometheus.io/" title="Prometheus" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+      <a href="https://grafana.com/" title="Grafana" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <a href="https://www.linux.org/" title="Linux" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" target="_blank" rel="noreferrer">
+      <a href="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
       </a>
     </td>
     <td>
-        <img align="left" alt="Python" width="36px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />
+        <img align="left" alt="Python" title="Python" width="36px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />
     </td>
   </tr>
 </table>
