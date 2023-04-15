@@ -119,4 +119,4 @@
 
 
 
-<img width="300" align="right" alt="coder.gif" src="devops1.gif" /> 
+<img width="100" align="right" alt="coder.gif" src="devops2.gif" /> 
