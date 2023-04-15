@@ -42,7 +42,7 @@
   <table>
   <tr>
     <td>
-      <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+      <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     </td>
     <td>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -119,9 +119,4 @@
 
 
 
-<img width="30" align="right" alt="coder.gif" src="devops2.gif" /> 
-
-
-
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
