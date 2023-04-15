@@ -117,7 +117,7 @@
 ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&theme=tokyonight)
+
 
 
 
