@@ -105,7 +105,8 @@
       </a>
     </td>
     <td>
-        <img align="left" alt="Python" title="Python" width="36px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />
+        <a href="https://www.python.org" title="Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      </a>
     </td>
   </tr>
 </table>
