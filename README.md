@@ -124,4 +124,8 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muslumhanozturk&theme=dark)](https://github.com/muslumhanozturk/github-readme-stats)
 
 
+<img width="300" align="right" alt="coder.gif" src="coder1.gif" />
+
+![Abhijay's github stats](https://github-readme-stats.vercel.app/api?username=Abhijay007&show_icons=true&hide_border=true&bg&theme=material-palenight)
+
 
