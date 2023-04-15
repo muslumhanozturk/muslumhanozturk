@@ -8,10 +8,10 @@
 
 
 - 🌱 I’m currently learning __AWS Cloud Architect / DevOps Engineering__
-- 👨‍💻 All of my projects are available at https://github.com/muslumhanozturk
-- 💬 Ask me about AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Prometheus, Grafana
-- 📫 How to reach me: muslumhanozturk@gmail.com
-- 📄 Know about my experiences https://www.linkedin.com/in/muslumhanozturk
+- 👨‍💻 All of my projects are available at __https://github.com/muslumhanozturk__
+- 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Prometheus, Grafana__
+- 📫 How to reach me: __muslumhanozturk@gmail.com__
+- 📄 Know about my experiences __https://www.linkedin.com/in/muslumhanozturk__
 
 
 
