@@ -45,7 +45,7 @@
       <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     </td>
     <td>
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <a href="https://aws.amazon.com" title="AWS" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
       </a>
     </td>
