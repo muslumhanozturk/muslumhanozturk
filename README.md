@@ -114,6 +114,7 @@
 
 
 <img width="300" align="right" alt="coder.gif" src="coder1.gif" />
+
 ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark)
 
 
