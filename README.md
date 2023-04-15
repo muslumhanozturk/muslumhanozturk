@@ -119,3 +119,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&theme=tokyonight)
 
+
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark" alt="GitHub stats card" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&theme=tokyonight&layout=compact" alt="Top Langs" width="400"/>
+</p>
+
+
