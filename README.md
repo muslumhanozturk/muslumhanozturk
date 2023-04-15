@@ -116,7 +116,7 @@
 
 ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark)
 
-![](https://raw.githubusercontent.com/muslumhanozturk/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![vzvzvzz](https://raw.githubusercontent.com/muslumhanozturk/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
