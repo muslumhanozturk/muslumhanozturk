@@ -123,12 +123,6 @@
 
 
 
-
-
-
-
-[Müslüm Han ÖZTÜRK](https://tr.linkedin.com/in/muslumhanozturk?trk=profile-badge)
-
               
               
 
