@@ -117,13 +117,3 @@
 <img width="350" align="right" alt="coder.gif" src="coder1.gif" />
 
 ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark)
-
-
-
-
-
-[![LinkedIn profili](https://img.shields.io/badge/LinkedIn-profil-brightgreen)](https://tr.linkedin.com/in/muslumhanozturk)
-            
-
-
-
