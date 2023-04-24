@@ -113,10 +113,17 @@
 </p>
 
 
-<img width="350" align="right" alt="coder.gif" src="coder1.gif" />
+<div align="right"> <!-- sağa hizalama div'i başlat -->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div> <!-- sağa hizalama div'i kapat -->
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<img width="350" align="center" alt="coder.gif" src="coder1.gif" />
 
 
