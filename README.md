@@ -113,7 +113,7 @@
 </p>
 
 
-<img width="350" align="right" alt="coder.gif" src="01.gif" />
+<img width="350" align="right" alt="coder.gif" src="02.gif" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats)
 
