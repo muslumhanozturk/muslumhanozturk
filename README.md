@@ -116,4 +116,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muslumhanozturk&theme=nord_dark)
+<img width="350" align="right" alt="coder.gif" src="coder1.gif" />
