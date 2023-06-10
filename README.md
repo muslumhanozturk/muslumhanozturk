@@ -119,30 +119,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div>
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-    <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muslumhanozturk" data-version="v1">
-        <a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/muslumhanozturk?trk=profile-badge">Müslüm Han ÖZTÜRK</a>
-    </div>
-</div>
-
-
-
-
-
-
-
