@@ -120,14 +120,21 @@
     </a>
 </p> -->
 
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
-    </a>
-    <a href="https://git.io/streak-stats">
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000" alt="GitHub Streak" width="400" height="200">
-    </a>
-</div>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
