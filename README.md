@@ -119,14 +119,18 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000" alt="GitHub Streak">
     </a>
 </p> -->
-<p align="right">
+
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+    </a>
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000" alt="GitHub Streak" width="400" height="200">
     </a>
-</p>
+</div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
