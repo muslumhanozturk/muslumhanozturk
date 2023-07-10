@@ -126,4 +126,4 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
-<img width="350" align="center" alt="coder.gif" src="aws.gif" />
+<img width="900" align="center" alt="coder.gif" src="aws.gif" />
