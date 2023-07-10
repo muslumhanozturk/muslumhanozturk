@@ -113,7 +113,7 @@
 </p>
 
 
-<img width="350" align="right" alt="coder.gif" src="coder1.gif" />
+<!-- <img width="350" align="right" alt="coder.gif" src="coder1.gif" /> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
