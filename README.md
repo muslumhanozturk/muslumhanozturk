@@ -114,9 +114,14 @@
 
 
 <!-- <img width="350" align="right" alt="coder.gif" src="coder1.gif" /> -->
-<p align="right">
+<!-- <p align="right">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000" alt="GitHub Streak">
+    </a>
+</p> -->
+<p align="right">
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000" alt="GitHub Streak" width="400" height="200">
     </a>
 </p>
 
@@ -126,4 +131,4 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
-<img width="900" align="center" alt="coder.gif" src="aws.gif" />
+<img width="800" align="center" alt="coder.gif" src="aws.gif" />
