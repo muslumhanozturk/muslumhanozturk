@@ -114,11 +114,16 @@
 
 
 <!-- <img width="350" align="right" alt="coder.gif" src="coder1.gif" /> -->
+<p align="right">
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000" alt="GitHub Streak">
+    </a>
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
 <img width="350" align="center" alt="coder.gif" src="aws.gif" />
