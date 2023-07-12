@@ -135,7 +135,10 @@
   </tr>
 </table>
 
+[Click Me..!](https://muslumhanozturk.github.io/my-portfolio/)
 
+
+<img width="1200" align="right" alt="index-home-page.png" src="index-home-page.png" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
