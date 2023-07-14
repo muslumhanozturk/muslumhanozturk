@@ -147,9 +147,3 @@
 
 
 <img width="850" align="center" alt="coder.gif" src="aws.gif" />
-
-
-
-
-<a href="https://muslumhanozturk.github.io/my-portfolio/" style="color: yellow;">Click Me..!</a>
-
