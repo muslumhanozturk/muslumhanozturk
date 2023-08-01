@@ -147,3 +147,5 @@
 
 
 <img width="850" align="center" alt="coder.gif" src="aws.gif" />
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
