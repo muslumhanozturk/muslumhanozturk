@@ -148,8 +148,6 @@
 
 <img width="850" align="center" alt="coder.gif" src="aws.gif" />
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />  
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/muslumhanozturk/count.svg" alt="Visitor Count">
 </div>
-
