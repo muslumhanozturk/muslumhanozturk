@@ -151,5 +151,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/muslumhanozturk/count.svg" alt="Visitor Count">
 </div>
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=muslumhanozturk.muslumhanozturk)](https://github.com/muslumhanozturk/muslumhanozturk)
