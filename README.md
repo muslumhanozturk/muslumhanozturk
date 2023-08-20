@@ -14,7 +14,6 @@
 - 📄 Know about my experiences __https://www.linkedin.com/in/muslumhanozturk__
 
 
-
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
