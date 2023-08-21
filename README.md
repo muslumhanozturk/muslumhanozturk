@@ -6,6 +6,7 @@
     <h3 align="center">A passionate DevOps Engineer from Istanbul / TURKIYE</h3>
 </p>
 
+
 - 🌱 I’m currently learning __AWS Cloud Architect / DevOps Engineering__
 - 👨‍💻 All of my projects are available at __https://github.com/muslumhanozturk__
 - 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Prometheus, Grafana__
