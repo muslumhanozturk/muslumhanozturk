@@ -144,9 +144,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/muslumhanozturk/count.svg" alt="Visitor Count">
 </div>
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muslumhanozturk" alt="muslumhanozturk" /></a> </p>
