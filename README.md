@@ -128,6 +128,9 @@
   </tr>
 </table>
 
+<h3 align="left">GitHub Trophies:</h3>
+![](https://github-profile-trophy.vercel.app/?username=muslumhanozturk&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
         
 [Click Me..!](https://muslumhanozturk.github.io) 
 
