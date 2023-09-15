@@ -111,17 +111,17 @@
   <tr>
     <td>
       <a href="https://slack.com/" title="Slack" target="_blank" rel="noreferrer">
-        <img src="image/slack.svg" alt="Slack" width="38" height="38"/>
+        <img src="image/slack.svg" alt="Slack" width="40" height="40"/>
       </a>
     </td>
     <td>
       <a href="https://www.atlassian.com/software/jira" title="Jira" target="_blank" rel="noreferrer">
-        <img src="image/atlassian.svg" alt="Jira" width="38" height="38"/>
+        <img src="image/atlassian.svg" alt="Jira" width="40" height="40"/>
       </a>
     </td>
     <td>
       <a href="https://maven.apache.org/" title="Maven" target="_blank" rel="noreferrer">
-        <img src="image/maven.svg" alt="Maven" width="40" height="40"/>
+        <img src="image/maven.svg" alt="Maven" width="42" height="42"/>
       </a>
     </td>
     <td>
