@@ -27,6 +27,11 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hanozturk" height="30" width="40" />
       </a>
     </td>
+    <td>
+      <a href="https://muslumhanozturk.github.io" title="Personel Website" target="_blank">
+        <img src="image/website.png" alt="Personel Website" height="40" width="40" />
+      </a>
+    </td>
   </tr>
 </table>
 
