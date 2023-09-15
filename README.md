@@ -131,55 +131,55 @@
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
-        <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/>
+        <img src="image/n.gif" alt="Loading Information" width="33" height="33"/>
       </a>
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
-        <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/>
+        <img src="image/e.gif" alt="Loading Information" width="33" height="33"/>
       </a>
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
-        <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/>
+        <img src="image/v.gif" alt="Loading Information" width="33" height="33"/>
       </a>
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
-        <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/>
+        <img src="image/e.gif" alt="Loading Information" width="33" height="33"/>
       </a>
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
-        <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/>
+        <img src="image/r.gif" alt="Loading Information" width="33" height="33"/>
       </a>
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
-        <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/>
+        <img src="image/g.gif" alt="Loading Information" width="33" height="33"/>
       </a>
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
-        <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/>
+        <img src="image/i.gif" alt="Loading Information" width="33" height="33"/>
       </a>
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
-        <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/>
+        <img src="image/v.gif" alt="Loading Information" width="33" height="33"/>
       </a>
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
-        <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/>
+        <img src="image/e.gif" alt="Loading Information" width="33" height="33"/>
       </a>
     </td>
     <td>
-        <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer"> <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/> 
+        <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer"> <img src="image/u.gif" alt="Loading Information" width="33" height="33"/> 
       </a>
     </td>
     <td>
-        <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer"> <img src="image/loading.gif" alt="Loading Information" width="33" height="33"/> 
+        <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer"> <img src="image/p.gif" alt="Loading Information" width="33" height="33"/> 
       </a>
     </td>    
   </tr>
