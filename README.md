@@ -174,7 +174,7 @@
       </a>
     </td>
     <td>
-        <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer"> <img src="image/loading.gif" alt="Loading Information" width="35" height="35"/> 
+        <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer"> <img src="image/loading.gif" alt="Loading Information" width="10" height="10"/> 
       </a>
     </td>    
   </tr>
