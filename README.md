@@ -35,7 +35,8 @@
   <table>
   <tr>
     <td>
-      <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+      <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noreferrer">
+        <img src="image/vscode.png" alt="aws" width="35" height="35"/>
     </td>
     <td>
       <a href="https://aws.amazon.com" title="AWS" target="_blank" rel="noreferrer">
@@ -98,7 +99,7 @@
       </a>
     </td>
     <td>
-        <a href="https://www.python.org" title="Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+        <a href="https://www.python.org" title="Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> 
       </a>
     </td>
   </tr>
@@ -110,12 +111,12 @@
   <tr>
     <td>
       <a href="https://slack.com/" title="Slack" target="_blank" rel="noreferrer">
-        <img src="image/slack.svg" alt="Slack" width="35" height="35"/>
+        <img src="image/slack.svg" alt="Slack" width="40" height="40"/>
       </a>
     </td>
     <td>
       <a href="https://www.atlassian.com/software/jira" title="Jira" target="_blank" rel="noreferrer">
-        <img src="image/atlassian.svg" alt="Jira" width="35" height="35"/>
+        <img src="image/atlassian.svg" alt="Jira" width="40" height="40"/>
       </a>
     </td>
     <td>
@@ -124,58 +125,58 @@
       </a>
     </td>
     <td>
-      <a href="https://docs.docker.com/engine/swarm/" title="Docker Swarm" target="_blank" rel="noreferrer">
-        <img src="image/loading2.gif" alt="Docker Swarm" width="30" height="30"/>
+      <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
+        <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <!-- <a href="https://www.ansible.com/" title="Ansible" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
+        <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://www.jenkins.io/" title="Jenkins" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
+        <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://prometheus.io/" title="Prometheus" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
+        <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://grafana.com/" title="Grafana" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
+        <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
+        <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
+        <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://www.linux.org/" title="Linux" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
+        <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/>
       </a>
     </td>
     <td>
-      <a href="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer">
+        <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/>
       </a>
     </td>
     <td>
-        <a href="https://www.python.org" title="Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+        <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer"> <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/> 
       </a>
     </td>
     <td>
-        <a href="https://www.python.org" title="Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+        <a href="https://en.wikipedia.org/wiki/Information_overload" title="Loading Information" target="_blank" rel="noreferrer"> <img src="image/loading.gif" alt="Loading Information" width="40" height="40"/> 
       </a>
-    </td>     -->
+    </td>    
   </tr>
 </table>
 </p>
