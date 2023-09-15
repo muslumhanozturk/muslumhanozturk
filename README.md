@@ -124,12 +124,12 @@
       </a>
     </td>
     <td>
-      <!-- <a href="https://docs.docker.com/engine/swarm/" title="Docker Swarm" target="_blank" rel="noreferrer">
-        <img src="image/dockerswarm.svg" alt="Docker Swarm" width="40" height="40"/>
+      <a href="https://docs.docker.com/engine/swarm/" title="Docker Swarm" target="_blank" rel="noreferrer">
+        <img src="image/loading2.gif" alt="Docker Swarm" width="30" height="30"/>
       </a>
     </td>
     <td>
-      <a href="https://www.ansible.com/" title="Ansible" target="_blank" rel="noreferrer">
+      <!-- <a href="https://www.ansible.com/" title="Ansible" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
       </a>
     </td>
