@@ -126,7 +126,7 @@
     </td>
     <td>
       <a href="https://maven.apache.org/" title="Maven" target="_blank" rel="noreferrer">
-        <img src="image/maven.png" alt="Maven" width="45" height="45"/>
+        <img src="image/maven.svg" alt="Maven" width="45" height="45"/>
       </a>
     </td>
     <td>
