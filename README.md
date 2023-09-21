@@ -218,15 +218,15 @@
 [Click Me..!](https://muslumhanozturk.github.io) 
 
 
-<img width="1200" align="right" alt="index-home-page.png" src="index-home-page.png" />
+<img width="1200" align="right" alt="index-home-page.png" src="image/index-home-page.png" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
-<img width="850" align="center" alt="coder.gif" src="aws.gif" />
-<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />  
+<img width="850" align="center" alt="coder.gif" src="image/aws.gif" />
+<img height="100" alt="Thanks for visiting" width="100%" src="image/thanks.svg" />  
 <div align="center">
   <img src="https://profile-counter.glitch.me/muslumhanozturk/count.svg" alt="Visitor Count">
 </div>
