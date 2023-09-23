@@ -129,7 +129,7 @@
         <img src="image/maven.svg" alt="Maven" width="45" height="45"/>
       </a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://www.youtube.com/watch?v=h6Ol3eprKiw" title="Never Give Up" target="_blank" rel="noreferrer">
         <img src="image/n.gif" alt="Never Give Up" width="33" height="33"/>
       </a>
@@ -175,13 +175,13 @@
       </a>
     </td>
     <td>
-        <a href="https://www.youtube.com/watch?v=h6Ol3eprKiw" title="Never Give Up" target="_blank" rel="noreferrer"> <img src="image/u.gif" alt="Never Give Up" width="33" height="33"/> 
+      <a href="https://www.youtube.com/watch?v=h6Ol3eprKiw" title="Never Give Up" target="_blank" rel="noreferrer"> <img src="image/u.gif" alt="Never Give Up" width="33" height="33"/> 
       </a>
     </td>
     <td>
-        <a href="https://www.youtube.com/watch?v=h6Ol3eprKiw" title="Never Give Up" target="_blank" rel="noreferrer"> <img src="image/p.gif" alt="Never Give Up" width="33" height="33"/> 
+      <a href="https://www.youtube.com/watch?v=h6Ol3eprKiw" title="Never Give Up" target="_blank" rel="noreferrer"> <img src="image/p.gif" alt="Never Give Up" width="33" height="33"/> 
       </a>
-    </td>    
+    </td>     -->
   </tr>
 </table>
 </p>
