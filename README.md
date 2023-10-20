@@ -116,22 +116,22 @@
   <tr>
     <td>
       <a href="https://slack.com/" title="Slack" target="_blank" rel="noreferrer">
-        <img src="image/slack.svg" alt="Slack" width="40" height="40"/>
+        <img src="image/slack.svg" alt="Slack" width="38" height="38"/>
       </a>
     </td>
     <td>
       <a href="https://www.atlassian.com/software/jira" title="Jira" target="_blank" rel="noreferrer">
-        <img src="image/atlassian.svg" alt="Jira" width="40" height="40"/>
+        <img src="image/atlassian.svg" alt="Jira" width="38" height="38"/>
       </a>
     </td>
     <td>
       <a href="https://maven.apache.org/" title="Maven" target="_blank" rel="noreferrer">
-        <img src="image/maven.svg" alt="Maven" width="40" height="40"/>
+        <img src="image/maven.svg" alt="Maven" width="38" height="38"/>
       </a>
     </td>
     <td>
       <a href="https://www.sonatype.com/products/sonatype-nexus-repository" title="Nexus Repository" target="_blank" rel="noreferrer">
-        <img src="image/nexus.png" alt="Nexus Repository" width="40" height="40"/>
+        <img src="image/nexus.png" alt="Nexus Repository" width="38" height="38"/>
       </a>
     </td>
     <!-- <td>
