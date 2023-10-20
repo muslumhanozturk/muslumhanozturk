@@ -129,12 +129,12 @@
         <img src="image/maven.svg" alt="Maven" width="40" height="40"/>
       </a>
     </td>
-    <!-- <td>
-      <a href="https://www.youtube.com/watch?v=h6Ol3eprKiw" title="Never Give Up" target="_blank" rel="noreferrer">
-        <img src="image/n.gif" alt="Never Give Up" width="33" height="33"/>
+    <td>
+      <a href="https://www.sonatype.com/products/sonatype-nexus-repository" title="Nexus Repository" target="_blank" rel="noreferrer">
+        <img src="image/nexus.png" alt="Nexus Repository" width="40" height="40"/>
       </a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://www.youtube.com/watch?v=h6Ol3eprKiw" title="Never Give Up" target="_blank" rel="noreferrer">
         <img src="image/e.gif" alt="Never Give Up" width="33" height="33"/>
       </a>
