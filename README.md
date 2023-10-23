@@ -134,12 +134,12 @@
         <img src="image/nexus.png" alt="Nexus Repository" width="37" height="37"/>
       </a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://groovy-lang.org/" title="Groovy" target="_blank" rel="noreferrer">
         <img src="image/groovy.png" alt="Groovy" width="40" height="40"/>
       </a>
     </td>
-    <!-- <td>
+    <td>
       <a href="https://www.youtube.com/watch?v=h6Ol3eprKiw" title="Never Give Up" target="_blank" rel="noreferrer">
         <img src="image/v.gif" alt="Never Give Up" width="33" height="33"/>
       </a>
