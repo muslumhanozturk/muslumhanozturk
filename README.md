@@ -111,7 +111,7 @@
 </table>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <table>
   <tr>
     <td>
@@ -136,7 +136,7 @@
     </td>
   </tr>
 </table>
-</p>
+</p> -->
 
 <!-- <img width="350" align="right" alt="coder.gif" src="coder1.gif" /> -->
 <!-- <p align="right">
