@@ -45,7 +45,7 @@
     </td>
     <td>
       <a href="https://aws.amazon.com" title="AWS" target="_blank" rel="noreferrer">
-        <img src="image/aws.png" alt="aws" width="42" height="42"/>
+        <img src="image/aws.png" alt="aws" width="36" height="38"/>
       </a>
     </td>
     <td>
