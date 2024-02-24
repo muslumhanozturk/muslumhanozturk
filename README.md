@@ -35,117 +35,97 @@
   </tr>
 </table>
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
   <tr>
-    <td>
-      <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noreferrer">
-        <img src="image/vscode.png" alt="aws" width="38" height="38"/>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+      <br>AWS
     </td>
-    <td>
-      <a href="https://aws.amazon.com" title="AWS" target="_blank" rel="noreferrer">
-        <img src="image/aws.png" alt="aws" width="36" height="38"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+      <br>Docker
     </td>
-    <td>
-      <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="44" height="44"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="40" height="40" />
+      <br>Kubernetes
     </td>
-    <td>
-      <a href="https://kubernetes.io" title="Kubernetes" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="icon" width="40" height="40" />
+      <br>OpenShift
     </td>
-    <td>
-      <a href="https://www.terraform.io/" title="Terraform" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="icon" width="40" height="40" />
+      <br>Terraform
     </td>
-    <td>
-      <a href="https://www.ansible.com/" title="Ansible" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="icon" width="40" height="40" />
+      <br>Ansible
     </td>
-    <td>
-      <a href="https://www.jenkins.io/" title="Jenkins" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="icon" width="40" height="40" />
+      <br>Jenkins
     </td>
-    <td>
-      <a href="https://prometheus.io/" title="Prometheus" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="icon" width="40" height="40" />
+      <br>ArgoCD
     </td>
-    <td>
-      <a href="https://grafana.com/" title="Grafana" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" width="48" height="48" alt="Jaeger" />
+      <br>Jaeger
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
     </td>
-    <td>
-      <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="icon" width="65" height="65" />
+      <br>Git
     </td>
-    <td>
-      <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
-    <td>
-      <a href="https://www.linux.org/" title="Linux" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
-    <td>
-      <a href="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
-      </a>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
     </td>
-    <td>
-        <a href="https://www.python.org" title="Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> 
-      </a>
+    <td align="center" width="96">
+        <img src="image/sonarqube.svg" width="48" height="48" alt="SonarQube" />
+      <br>SonarQube
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="icon" width="40" height="40" />
+      <br>Prometheus
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="icon" width="40" height="40" />
+      <br>Grafana
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    </td>
     </td>
   </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+ </tr>
 </table>
-</p>
-
-<!-- <p align="left">
-  <table>
-  <tr>
-    <td>
-      <a href="https://slack.com/" title="Slack" target="_blank" rel="noreferrer">
-        <img src="image/slack.svg" alt="Slack" width="37" height="37"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.atlassian.com/software/jira" title="Jira" target="_blank" rel="noreferrer">
-        <img src="image/atlassian.svg" alt="Jira" width="37" height="37"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://maven.apache.org/" title="Maven" target="_blank" rel="noreferrer">
-        <img src="image/maven.svg" alt="Maven" width="37" height="37"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.sonatype.com/products/sonatype-nexus-repository" title="Nexus Repository" target="_blank" rel="noreferrer">
-        <img src="image/nexus.png" alt="Nexus Repository" width="37" height="37"/>
-      </a>
-    </td>
-  </tr>
-</table>
-</p> -->
-
-<!-- <img width="350" align="right" alt="coder.gif" src="coder1.gif" /> -->
-<!-- <p align="right">
-    <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000" alt="GitHub Streak">
-    </a>
-</p> -->
+<br><br>
 
 
+</div>
 
 
 <table>
@@ -163,10 +143,6 @@
   </tr>
 </table>
 
-
-
-<!-- ## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muslumhanozturk&theme=onedark&no-frame=true&no-bg=true&margin-w=4) -->
 
         
 [Click Me..!](https://muslumhanozturk.github.io) 
