@@ -19,17 +19,17 @@
   <tr>
     <td>
       <a href="https://linkedin.com/in/muslumhanozturk" title="Linkedin" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muslumhanozturk" height="30" width="40" />
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="muslumhanozturk" height="48" width="48" />
       </a>
     </td>
     <td>
       <a href="https://instagram.com/m.hanozturk" title="Instagram" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hanozturk" height="30" width="40" />
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="m.hanozturk" height="48" width="48" />
       </a>
     </td>
     <td>
       <a href="https://muslumhanozturk.github.io" title="Personel Website" target="_blank">
-        <img src="image/website.png" alt="Personel Website" height="40" width="40" />
+        <img src="image/website.png" alt="Personel Website" height="50" width="50" />
       </a>
     </td>
   </tr>
