@@ -45,31 +45,31 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="48" height="48" />
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="icon" width="48" height="48" />
       <br>OpenShift
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="icon" width="48" height="48" />
       <br>Terraform
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="icon" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="icon" width="48" height="48" />
       <br>Ansible
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="icon" width="48" height="48" />
       <br>Jenkins
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="icon" width="48" height="48" />
       <br>ArgoCD
     </td>
     <td align="center" width="96">
@@ -82,7 +82,7 @@
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="icon" width="48" height="48" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -102,10 +102,10 @@
       <br>SonarQube
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="icon" width="48" height="48" />
       <br>Prometheus
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="icon" width="48" height="48" />
       <br>Grafana
     </td>
     <td align="center"  width="96">
