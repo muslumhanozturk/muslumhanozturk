@@ -94,6 +94,10 @@
       <br>Python
     </td>
     <td align="center" width="96">
+        <img src="image/bash.svg" width="48" height="48" alt="Bash Script" />
+      <br>Bash Script
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
@@ -108,14 +112,14 @@
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="icon" width="48" height="48" />
       <br>Grafana
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
     </td>
     </td>
   </tr>
  <tr>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
