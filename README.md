@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <h3 align="center">A passionate Unix/Linux System Admin | Cloud & DevOps Engineer</h3>
+    <h3 align="center">Unix/Linux System Admin | Cloud & DevOps Engineer</h3>
 </p>
 
 
