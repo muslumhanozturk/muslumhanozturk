@@ -156,6 +156,13 @@
 
 <img width="850" align="center" alt="coder.gif" src="image/aws.gif" />
 <img height="100" alt="Thanks for visiting" width="100%" src="image/thanks.svg" />  
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/muslumhanozturk/count.svg" alt="Visitor Count">
+</div> -->
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=muslumhanozturk&label=PROFILE+VISITORS&color=00ff00&style=flat"
+    alt="Profile Visitors"
+  />
 </div>
