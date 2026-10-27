@@ -23,7 +23,7 @@
       </a>
     </td>
     <td>
-      <a href="https://instagram.com/m.hanozturk" title="Instagram" target="_blank">
+      <a href="https://instagram.com/muslum.han.ozturk" title="Instagram" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="m.hanozturk" height="48" width="48" />
       </a>
     </td>
